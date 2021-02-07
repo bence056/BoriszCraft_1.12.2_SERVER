@@ -1,0 +1,82 @@
+ - MOD VERSION 1.12.2 - 
+
+Forge
+JEI
+JourneyMap
+Biome's o Plenty
+Hwyla - https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751
+Waila Harvestability - https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files/2481605
+WAWLA
+
+Tinker's Construct
+TAIGA
+Actually Additions
+Mekanism
+Applied Energistics 2
+Immersive Engineering
+Immersive Petroleum
+Thermal Expansion
+RFTools
+Chicken Chunks
+
+IronBackpacks
+StorageDrawers
+IronChests
+Bibiliocraft
+Akhasic Tome
+MineColonies
+ChestTransporterr
+Rustic
+
+Botania
+Baubles
+Pam's Harvestcraft
+Mystical Agriculture
+Ice And Fire
+Astral Sorcery
+Natura
+
+Chisel
+CosmeticArmor
+MalisisDoors
+
+Animania
+Twilight Forest
+Dynamic Surroundings
+Grimore of Gaia
+Crafting Tweaks
+Inventory Tweaks
+Roguelike Dungeons
+Corail Tombstone
+ChunkAnimator
+
+Forestry
+Gendustry
+
+BetterFPS
+AromaBackup
+FoamFix
+
+//Dependencies
+
+Bookshelf
+Mantle
+Flux Networks
+Thermal Foundation
+CoFH Core
+CoFH Lib 1.7.10
+Cucumber Lib
+LLibrary
+CuriosAPI
+ObserverLib
+Chameleon
+CTM
+CoFHWorld
+RedstoneFlux
+CraftstudioAPI
+orelib
+Bdlib
+
+//Parameters:
+
+-Dcofh.rf.crashOnOldAPI=false
