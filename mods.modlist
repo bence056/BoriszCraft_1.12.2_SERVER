@@ -4,9 +4,9 @@ Forge
 JEI
 JourneyMap
 Biome's o Plenty
-Hwyla - https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751
-Waila Harvestability - https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files/2481605
-WAWLA
+The One Probe
+
+Boris's Addons
 
 Tinker's Construct
 TAIGA
@@ -16,8 +16,11 @@ Applied Energistics 2
 Immersive Engineering
 Immersive Petroleum
 Thermal Expansion
+Thermal Dynamics
 RFTools
 Chicken Chunks
+Extra Utilities 2
+EnderIO
 
 IronBackpacks
 StorageDrawers
@@ -37,7 +40,6 @@ Astral Sorcery
 Natura
 
 Chisel
-CosmeticArmor
 MalisisDoors
 
 Animania
@@ -57,8 +59,38 @@ BetterFPS
 AromaBackup
 FoamFix
 
+MouseTweaks
+FastLeafDecay
+OreExcavator
+ThermalExpansion
+ThermalDynamics
+
+Waystones
+Snad
+Cyclic
+TinyProgressions
+Controlling
+CosmeticArmorReworked
+FenceOverhaul
+ItemPhysicsFull
+ItemZoom
+Terraqueous
+AE2WirelessTerminal
+BonsaiTrees2
+MoreBuckets
+
+GalactiCraft Core
+GalactiCraft Planets
+GalactiCraftTweaker
+Extra Planets
+
+Mekanism:Generators
+AppleSkin
+Spice of Life: Carrot Edition
+
 //Dependencies
 
+AppleCore
 Bookshelf
 Mantle
 Flux Networks
@@ -67,6 +99,7 @@ CoFH Core
 CoFH Lib 1.7.10
 Cucumber Lib
 LLibrary
+EnderCore
 CuriosAPI
 ObserverLib
 Chameleon
@@ -76,6 +109,10 @@ RedstoneFlux
 CraftstudioAPI
 orelib
 Bdlib
+CreativeCore
+Crafttweaker2
+MicDoodleCore
+MJRLegendsLib
 
 //Parameters:
 
